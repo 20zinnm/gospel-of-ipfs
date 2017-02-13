@@ -4,7 +4,7 @@ Want to help spread the _Holy Gospel of IPFS_? Awesome! Here are some instructio
 
 ## Dive Right In
 
-If you'd like to help us right now with the book, feel free to look at the issues for help wanted, or make a PR with your own contribution.
+If you'd like to help us right now with the book, feel free to look at the issues for help wanted, or make a PR with your own contribution. There are also comments scattered throughout the book with notes that we should add. Feel free to expand on them or add the content they describe!
 
 ## Community Guidelines
 
