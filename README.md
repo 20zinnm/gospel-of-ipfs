@@ -7,10 +7,6 @@ TODO: Put more badges here.
 
 IPFS is the latest in a series of technical innovations that are blazing the way for a truly distributed internet. However, sometimes the benefits aren't clear, and the failures of the past continue to loom over future potential. This book is intended to bring light to the benefits of IPFS and why we need to start switching today.
 
-## Table of Contents
-
-[TOC]
-
 ## Background
 
 Change is hard. We get it. But it doesn't have to be painful, and sometimes it's necessary. The internet is in a lot of pain right now; we're seeing DDOS attacks large enough to slow network activity for entire continents, and entire ecosystems devoted to finding ways to make websites load faster. CDNs have turned into a multi-billion dollar industry, but it doesn't have to be this way; we have a solution. Meet IPFS.
